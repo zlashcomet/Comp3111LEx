@@ -7,4 +7,4 @@ This is a readme
 
 You need to read me :)
 
-![Important screenshot](src/main/java/Lab1/OJ_leaks.png)
+![Important screenshot](OJ_leaks.png)
